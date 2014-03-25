@@ -1,0 +1,1 @@
+exports.imageBaseURL="/images/"
